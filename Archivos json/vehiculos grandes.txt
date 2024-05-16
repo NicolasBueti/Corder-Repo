@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "model": "Toyota Highlander",
+    "description": "La Toyota Highlander es una SUV grande y espaciosa, ideal para familias numerosas o para viajes largos. Destaca por su confort interior, seguridad y capacidad de carga. Con su potente motor y tracción en las cuatro ruedas, es capaz de enfrentar una variedad de condiciones de manejo.",
+    "technical_data": {
+      "engine": "Motor V6",
+      "power": "270 HP",
+      "transmission": "Automática de 8 velocidades",
+      "fuel_consumption": "9.5 litros/100km",
+      "seats": 8,
+      "airbags": 10,
+      "air_conditioning": true
+    },
+    "daily_rental_price": "$80",
+    "image": "https://cdn.motor1.com/images/mgl/YAYEyw/s3/2024-toyota-grand-highlander.jpg"
+  },
+  {
+    "id": 2,
+    "model": "Ford Explorer",
+    "description": "La Ford Explorer es una SUV grande y robusta, diseñada para la aventura y el confort en carretera. Con capacidad para hasta siete pasajeros, ofrece un amplio espacio interior y una conducción suave y silenciosa. Equipada con tecnología avanzada de seguridad y entretenimiento, es perfecta para familias activas.",
+    "technical_data": {
+      "engine": "Motor V6",
+      "power": "300 HP",
+      "transmission": "Automática de 10 velocidades",
+      "fuel_consumption": "10.2 litros/100km",
+      "seats": 7,
+      "airbags": 8,
+      "air_conditioning": true
+    },
+    "daily_rental_price": "$85",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/ford-explorer-timberline-1620215560.jpg?crop=0.856xw:1.00xh;0.0430xw,0&resize=2048:*"
+  },
+  {
+    "id": 3,
+    "model": "Chevrolet Suburban",
+    "description": "La Chevrolet Suburban es una SUV grande y potente, diseñada para familias que necesitan espacio y versatilidad. Con capacidad para hasta nueve pasajeros, ofrece un interior lujoso y tecnología de vanguardia. Su potente motor y capacidad de remolque la hacen perfecta para aventuras familiares y viajes largos.",
+    "technical_data": {
+      "engine": "Motor V8",
+      "power": "355 HP",
+      "transmission": "Automática de 10 velocidades",
+      "fuel_consumption": "12.0 litros/100km",
+      "seats": 9,
+      "airbags": 9,
+      "air_conditioning": true
+    },
+    "daily_rental_price": "$90",
+    "image": "https://hips.hearstapps.com/hmg-prod/images/2018-chevrolet-suburban-101-1531774571.jpg"
+  }
+]

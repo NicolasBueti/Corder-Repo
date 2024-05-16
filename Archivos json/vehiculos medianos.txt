@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "model": "Toyota Corolla",
+    "description": "El Toyota Corolla es un sedán mediano confiable y eficiente, conocido por su interior espacioso y economía de combustible. Ofrece un viaje suave y cómodo, lo que lo hace ideal para desplazamientos diarios o viajes largos.",
+    "technical_data": {
+      "engine": "Motor de cuatro cilindros en línea",
+      "power": "140 HP",
+      "transmission": "Automático CVT",
+      "fuel_consumption": "6.0 litros/100km",
+      "doors": 4,
+      "airbags": 8,
+      "air_conditioning": true
+    },
+    "daily_rental_price": "$50",
+    "image": "https://fotos.perfil.com/2023/11/02/trim/876/492/toyota-corolla-gr-sport-1689082.jpg"
+  },
+  {
+    "id": 2,
+    "model": "Honda Civic",
+    "description": "El Honda Civic es una opción popular entre los sedanes medianos, ofreciendo una combinación de confiabilidad, comodidad y rendimiento. Con su diseño elegante y características avanzadas, brinda una experiencia de conducción placentera.",
+    "technical_data": {
+      "engine": "Motor de cuatro cilindros en línea",
+      "power": "160 HP",
+      "transmission": "Automático CVT",
+      "fuel_consumption": "6.2 litros/100km",
+      "doors": 4,
+      "airbags": 6,
+      "air_conditioning": true
+    },
+    "daily_rental_price": "$55",
+    "image": "https://blog.way.com/wp-content/uploads/2023/12/Honda-Civic-feature-1.jpeg"
+  },
+  {
+    "id": 3,
+    "model": "Volkswagen Golf",
+    "description": "El Volkswagen Golf es un hatchback versátil y práctico, conocido por su sólida calidad de construcción y agradables dinámicas de conducción. Con su interior espacioso y motor eficiente en combustible, es perfecto para la conducción urbana y escapadas de fin de semana.",
+    "technical_data": {
+      "engine": "Motor de cuatro cilindros en línea",
+      "power": "150 HP",
+      "transmission": "Automático de 7 velocidades",
+      "fuel_consumption": "6.3 litros/100km",
+      "doors": 5,
+      "airbags": 7,
+      "air_conditioning": true
+    },
+    "daily_rental_price": "$52",
+    "image": "https://noticias.coches.com/wp-content/uploads/2014/07/volkswagen_golf-gti-5-door-2013_r27.jpg"
+  }
+]

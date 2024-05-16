@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Vehículos Pequeños",
+    "description": "Categoría de vehículos pequeños",
+    "information": "Información sobre vehículos pequeños",
+    "images": ["https://www.mundoautomotor.com.ar/wp-content/uploads/2024/02/file-3926.jpeg"]
+  },
+  {
+    "title": "Vehículos Medianos",
+    "description": "Categoría de vehículos medianos",
+    "information": "Información sobre vehículos medianos",
+    "images": ["https://cdn.motor1.com/images/mgl/rKZoQx/s1/ventas-febrero-2023.jpg"]
+  },
+  {
+    "title": "Vehículos Grandes",
+    "description": "Categoría de vehículos grandes",
+    "information": "Información sobre vehículos grandes",
+    "images": ["https://autoland.com.pe/wp-content/uploads/2020/11/Plantilla-Blog-Autoland-1_a.png"]
+  }
+]

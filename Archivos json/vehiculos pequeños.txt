@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "model": "Renault Clio",
+    "description": "El Renault Clio es un automóvil compacto y ágil, ideal para la conducción en entornos urbanos. Destaca por su diseño deportivo y su maniobrabilidad en espacios reducidos.",
+    "technical_specs": {
+      "engine": "Motor de 3 cilindros en línea",
+      "power": "100 HP",
+      "transmission": "Manual 5 velocidades",
+      "fuel_consumption": "5.0 litros/100km",
+      "doors": 3,
+      "airbags": 6,
+      "air_conditioning": true
+    },
+    "daily_rent_price": "$40",
+    "image": "https://cdn.motor1.com/images/mgl/2MMyp/s3/renault-clio-1.0.webp"
+  },
+  {
+    "id": 2,
+    "model": "Ford Fiesta",
+    "description": "El Ford Fiesta es un automóvil compacto y versátil que ofrece un equilibrio entre rendimiento y comodidad. Perfecto para desplazamientos diarios en la ciudad o viajes cortos.",
+    "technical_specs": {
+      "engine": "Motor de 4 cilindros en línea",
+      "power": "120 HP",
+      "transmission": "Automática 6 velocidades",
+      "fuel_consumption": "5.5 litros/100km",
+      "doors": 5,
+      "airbags": 4,
+      "air_conditioning": true
+    },
+    "daily_rent_price": "$42",
+    "image": "https://i.ibb.co/h2s4CDR/ford-fiesta.jpg"
+  },
+  {
+    "id": 3,
+    "model": "Volkswagen Polo 3 puertas",
+    "description": "El Volkswagen Polo de 3 puertas es un automóvil compacto y deportivo, diseñado para ofrecer una experiencia de conducción dinámica y ágil. Perfecto para quienes buscan estilo y rendimiento.",
+    "technical_specs": {
+      "engine": "Motor de 3 cilindros en línea",
+      "power": "95 HP",
+      "transmission": "Manual 5 velocidades",
+      "fuel_consumption": "5.2 litros/100km",
+      "doors": 3,
+      "airbags": 6,
+      "air_conditioning": true
+    },
+    "daily_rent_price": "$38",
+    "image": "https://www.coches.com/fotos_historicas/volkswagen/Polo-GTI-3-door-2014/volkswagen_polo-gti-3-door-2014_r26.jpg"
+  }
+]
