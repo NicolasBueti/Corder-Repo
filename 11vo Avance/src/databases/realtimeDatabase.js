@@ -1,0 +1,1 @@
+export const baseUrl = "https://proyecto-coder-138b1-default-rtdb.firebaseio.com/"
